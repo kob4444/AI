@@ -1,0 +1,7 @@
+# TestFlight 核心服务
+DOMAIN,testflight.apple.com
+
+# TestFlight 与 App Store 资源下载 CDN
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,appldnld.apple.com
